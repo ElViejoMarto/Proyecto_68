@@ -1,0 +1,15 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+   
+}
+.trave1_mainDiv{
+border: 1px solid lightgrey;
+}
+.trave1_mainDiv img{
+width: 100%;
+}
+.trave1_mainDiv h5 , .trave1_mainDiv p{
+margin:20px ;
+}
